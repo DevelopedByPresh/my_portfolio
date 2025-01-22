@@ -1,19 +1,25 @@
 {
     "education":[
         {
-            "title": "Jun 20XX - Jun 20YY",
-            "cardTitle": "B.Tech, Computer Science",
-            "cardSubtitle":"XYZ University, City",
-            "cardDetailedText": "CGPA - 9.5",
+            "title": "Nov 2016 - Dec 2021",
+            "cardTitle": "B.ENG, Petroleum Engineering",
+            "cardSubtitle":"Federal University of Technology Owerri, Imo state",
+            "cardDetailedText": "CGPA - 3.8",
             "icon" : {
                 "src": "images/education/lorem-ipsum.png"
             }
         },
         {
-            "title": "Apr 20XX",
+            "title": "2009 - 2015",
             "cardTitle": "High School",
-            "cardSubtitle":"ABC School, City",
-            "cardDetailedText": "Marks - 95%"
+            "cardSubtitle":"Rochas Foundation College Owerri, Imo state"
+           
+        },
+        {
+            "title": "2006-2008",
+            "cardTitle": "Primary Education",
+            "cardSubtitle":"Ecole Bilingue d'lest"
+  
         }
     ]
 }

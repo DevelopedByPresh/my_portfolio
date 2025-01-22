@@ -7,7 +7,7 @@ import FallbackSpinner from './FallbackSpinner';
 
 const styles = {
   nameStyle: {
-    fontSize: '5em',
+    fontSize: '2.5em',
   },
   inlineChild: {
     display: 'inline-block',

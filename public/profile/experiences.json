@@ -1,33 +1,52 @@
 {
     "experiences": [
         {
-            "title": "Software Engineer",
-            "subtitle": "XYZ Ltd",
-            "workType": "Full-time",
+            "title": "Frontend Developer",
+            "subtitle": " Breics",
+            "workType": "Remote",
             "workDescription": [
-                "Integrated **2** new product.",
-                "Worked on adding **def** to **bcd**. Improved speed by 50%."
+                "Worked closely with backend developers to fix bugs",
+                "Utilized Vuejs to add new feature.",
+                "Modified existing software to upgrade interface and improve performance"
             ],
-            "dateText": "06/20XX – Present"
+            "dateText": "11/2024 – Present"
         },
         {
-            "title": "Software Engineer",
-            "subtitle": "XYZ Ltd",
-            "workType": "Internship",
+        "title": "Frontend Developer",
+            "subtitle": "AgriTally",
+            "workType": "Remote",
             "workDescription": [
-                "Worked on abc."
+                "Worked closely with backend developers to build a React and Redux Application",
+                " Utilized React and Redux + Git to develop different frontend modules",
+                "Stored, retrieved and manipulated data for the application Requirements."
             ],
-            "dateText": "01/20XX – 05/20XX"
+            "dateText": "07/2023 – 12/2023"
         },
         {
-            "title": "App Developer",
-            "subtitle": "ABC Pvt Ltd",
-            "workType": "Freelance",
+            "title": "Frontend Developer",
+            "subtitle": "CEED SOLUTIONS",
+            "workType": "Remote",
             "workDescription": [
-                "Developed the official apps for the startup for both Android and iOS using hybrid framework.",
-                "Done bcd work."
+                " Worked closely with backend developers to build different web applications using Reactjs, Vuejs and Nextjs",
+                " Modified Existing software to upgrade software and improve performance.",
+                " Stored, retrieved and manipulated data for application compatibility.",
+                "  Integrated code changes and test code changes."
             ],
-            "dateText": "09/20XX – 01/20YY"
-        }
+            "dateText": "01/2022 – 08/2022"
+        },
+
+
+
+        {
+            "title": "Frontend Developer",
+                "subtitle": "Adrolly",
+                "workType": "Remote",
+                "workDescription": [
+                    "Worked closely with backend developers to build a React and Redux Application",
+                    "Modified existing software to upgrade interface and improve performance",
+                    "Stored, retrieved and manipulated data for the application Requirements."
+                ],
+                "dateText": "04/2021 – 12/2021"
+            }
     ]
 }
